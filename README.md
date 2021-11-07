@@ -5,19 +5,19 @@ Pewlett-Hackard (PH) is expecting a large number of retirements from their compa
 
 
 ## Results
-**Table 1:** All individuals close to retirement or retired by all titles held while at PH.  [Full Table](Data/retirement_titles.csv)
+**Table 1:** All individuals close to retirement.  [Full Table](Data/retirement_titles.csv)
 
 ![retirement_titles](Table-Previews/retirement_titles_preview.png)
 
-**Table 2:** All Individuals close to retirement or retired with only their most recent title.  [Full Table](Data/unique_titles.csv)
+**Table 2:** All Individuals close to retirement getting most recent title.  [Full Table](Data/unique_titles.csv)
 
 ![retirement_titles](Table-Previews/unique_titles_preview.png)
 
-**Table 3:** Number of individuals with each title currently close to retirement or retired.  [Full Table](Data/retiring_titles.csv)
+**Table 3:** Number of individuals by title close to retirement.  [Full Table](Data/retiring_titles.csv)
 
 ![retirement_titles](Table-Previews/retiring_titles_preview.png)
 
-**Table 4:** All individuals that are currently employed and eligible for the mentorship program.  [Full Table](Data/mentorship_eligibilty.csv)
+**Table 4:** All individuals eligible for the mentorship program.  [Full Table](Data/mentorship_eligibilty.csv)
 
 ![retirement_titles](Table-Previews/mentorship_eligibilty_preview.png)
 
